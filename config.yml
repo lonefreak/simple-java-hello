@@ -1,7 +1,24 @@
 - users:
+<<<<<<< HEAD
+      - "Fabricio Leotti <fabricio.leotti@gmail.com>"
+      linha add "Linha teste de txtxtxtxtxtxvsdsadsadas  t tg  f d dcsds"
+=======
     - "Fabricio Leotti <fabricio.leotti@gmail.com>"
+<<<<<<< HEAD
 <<<<<<< HEAD
     - "Chambinho Rosa <chambinho.rosa@gmail.com>"
 =======
     - "Fernando La Gamba <pegaaquinomeu@world.com>"
+>>>>>>> refs/remotes/origin/master
+=======
+<<<<<<< HEAD
+    - "Alysson Rodrigues <alysson.santos@tcibpo.com>"
+=======
+    - "Fernando La Gamba <pegaaquinomeu@world.com>"
+>>>>>>> 7a576ffe550611e7fd084446febb04cb51de8d34
+=======
+    - "Lonefreak <fabricio.leotti@gmail.com>"
+    - "Fernando La Gamba <pegaaquinomeu@world.com>"
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 6cbd860e1bdae3ba3c4a607a4adde1351f583720
 >>>>>>> refs/remotes/origin/master
