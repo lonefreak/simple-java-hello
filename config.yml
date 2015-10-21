@@ -1,3 +1,8 @@
 - users:
+<<<<<<< HEAD
       - "Fabricio Leotti <fabricio.leotti@gmail.com>"
-      linha add "Linha teste de txtxtxtxtxtx"
+      linha add "Linha teste de txtxtxtxtxtxvsdsadsadas  t tg  f d dcsds"
+=======
+    - "Fabricio Leotti <fabricio.leotti@gmail.com>"
+    - "Fernando La Gamba <pegaaquinomeu@world.com>"
+>>>>>>> refs/remotes/origin/master
