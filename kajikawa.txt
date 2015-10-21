@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 oioioioioi-----
+=======
+Alo, Kajikawa!!
+>>>>>>> refs/remotes/origin/kajikawa
